@@ -47,7 +47,7 @@ You'll create a repository on GitHub and then clone it to your local machine usi
 ### 2.1. Create a New Repository on GitHub
 1.  Go to [https://github.com/](https://github.com/) and log in (or create an account).
 2.  Click the `+` icon in the top right corner and select `New repository`.
-    - To create a repository based on an existing project, you can navigate to the desired repository and click `fork`, or click `Import Repository` instead.
+    - To create a repository based on an existing project, you can navigate to the desired repository and click `fork` if you wish to contribute to the original, or click `Import Repository` instead.
 3.  Give your repository a meaningful name (e.g., `my-python-project`).
 4.  Choose whether it's public or private.
 5.  (Optional) Add a README file, `.gitignore` (select `Python` template), and license. These can also be added later.
